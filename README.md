@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi👋 I'm Harvin
 
+Machine Learning and Deep Learning learner.
+
+Working with Python, neural networks, and FastAPI to build and deploy ML projects.  
+Focused on fundamentals, clean code, and real-world understanding.
+
+Projects here reflect my learning journey — progress over perfection.
 <!--
 **26harvintilavat/26harvintilavat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
