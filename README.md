@@ -1,11 +1,38 @@
-## Hi👋 I'm Harvin
+# Hi 👋 I'm Harvin
 
 Machine Learning and Deep Learning learner.
 
-Working with Python, neural networks, and FastAPI to build and deploy ML projects.  
-Focused on fundamentals, clean code, and real-world understanding.
+Working with Python, FastAPI, LangChain, neural networks, and AI applications.
+Focused on fundamentals, clean code, and building real-world projects.
 
-Projects here reflect my learning journey — progress over perfection.
+## Tech Stack
+
+* Python
+* SQL
+* FastAPI
+* LangChain
+* React
+* Next.js
+* Scikit-learn
+* PyTorch
+* Git
+* Docker
+
+## Current Focus
+
+* AI-powered backend projects
+* Vibe coding with Codex for UI building
+* DSA in Python
+* Open source contributions
+
+## Projects
+
+* Lung Tumor Segmentation
+* Authentication System
+* YouTube / Blog Summarizer API
+
+> Learning in public. Building step by step.
+
 <!--
 **26harvintilavat/26harvintilavat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
