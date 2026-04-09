@@ -21,7 +21,7 @@ Focused on fundamentals, clean code, and building real-world projects.
 ## Current Focus
 
 * AI-powered backend projects
-* Vibe coding with Codex for UI building
+* Agentic coding with Codex for UI building
 * DSA in Python
 * Open source contributions
 
