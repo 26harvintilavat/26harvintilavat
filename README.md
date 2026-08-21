@@ -1,36 +1,38 @@
-# Hi, I'm Harvin Tilavat 👋
+Hi, I'm Harvin Tilavat 👋
 
-### AI Engineer | Backend Developer
+AI Engineer | Backend Developer | Building Intelligent Systems
 
-I'm focused on building **secure, scalable, and production-ready AI and backend systems**.
+I'm focused on building strong foundations in Artificial Intelligence, Backend Engineering, and System Design.
 
-Currently exploring **Agentic AI, LLMs, RAG, Backend Engineering, and System Design**.
+I enjoy learning how production AI systems work — from model integration and APIs to scalable backend architecture.
 
-### 🛠️ Tech
+🧠 Tech Stack
 
-`Python` · `FastAPI` · `Next.js` · `PostgreSQL` · `MongoDB` · `Redis` · `Docker` · `Git`
+Languages
+Python • JavaScript • Rust
 
-### 🎯 Interests
+AI / ML
+Machine Learning • Deep Learning • LLMs • RAG • Agentic AI
 
-**AI Engineering · Backend Systems · LLM Security · System Design · Developer Tools**
+Backend
+FastAPI • REST APIs • PostgreSQL • MongoDB • Redis
 
-### 🤝 Connect
+Tools & Technologies
+Docker • Git • GitHub • VS Code
 
-[Email](mailto:tilavatharvin@gmail.com)
+📚 Currently Exploring
 
-> Building thoughtfully. Learning continuously.
+- Agentic AI systems
+- Retrieval-Augmented Generation
+- AI engineering patterns
+- Backend architecture
+- System design
+- Production-ready AI applications
 
-<!--
-**26harvintilavat/26harvintilavat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Focus
 
-Here are some ideas to get you started:
+Building reliable, scalable, and practical AI-powered software systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+«Learning. Building. Improving.»
