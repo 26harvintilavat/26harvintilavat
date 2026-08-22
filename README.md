@@ -8,16 +8,16 @@ I enjoy learning how production AI systems work — from model integration and A
 
 🧠 Tech Stack
 
-Languages
+Languages: 
 Python • JavaScript • Rust
 
-AI / ML
+AI / ML: 
 Machine Learning • Deep Learning • LLMs • RAG • Agentic AI
 
-Backend
+Backend: 
 FastAPI • REST APIs • PostgreSQL • MongoDB • Redis
 
-Tools & Technologies
+Tools & Technologies: 
 Docker • Git • GitHub • VS Code
 
 📚 Currently Exploring
